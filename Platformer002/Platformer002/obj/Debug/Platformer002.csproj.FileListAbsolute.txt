@@ -1,0 +1,68 @@
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\bin\Debug\Platformer002.exe.config
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\bin\Debug\Platformer002.exe
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\bin\Debug\Platformer002.pdb
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\obj\Debug\Platformer002.csprojResolveAssemblyReference.cache
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\obj\Debug\Platformer002.Form1.resources
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\obj\Debug\Platformer002.Properties.Resources.resources
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.GenerateResource.cache
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.CoreCompileInputs.cache
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\obj\Debug\Platformer002.exe
+D:\Dasha\UL\Engineering\Platformer002\Platformer002\obj\Debug\Platformer002.pdb
+D:\Student\Pobrane\Platformer002\Platformer002\bin\Debug\Platformer002.exe.config
+D:\Student\Pobrane\Platformer002\Platformer002\bin\Debug\Platformer002.exe
+D:\Student\Pobrane\Platformer002\Platformer002\bin\Debug\Platformer002.pdb
+D:\Student\Pobrane\Platformer002\Platformer002\obj\Debug\Platformer002.csprojResolveAssemblyReference.cache
+D:\Student\Pobrane\Platformer002\Platformer002\obj\Debug\Platformer002.Form1.resources
+D:\Student\Pobrane\Platformer002\Platformer002\obj\Debug\Platformer002.Properties.Resources.resources
+D:\Student\Pobrane\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.GenerateResource.Cache
+D:\Student\Pobrane\Platformer002\Platformer002\obj\Debug\Platformer002.exe
+D:\Student\Pobrane\Platformer002\Platformer002\obj\Debug\Platformer002.pdb
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\bin\Debug\Platformer002.exe.config
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\obj\Debug\Platformer002.exe
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\obj\Debug\Platformer002.pdb
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\bin\Debug\Platformer002.exe
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\bin\Debug\Platformer002.pdb
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\obj\Debug\Platformer002.csprojResolveAssemblyReference.cache
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\obj\Debug\Platformer002.Form1.resources
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\obj\Debug\Platformer002.Properties.Resources.resources
+D:\Student\Pobrane\Platformer003-20190521T065308Z-001\Platformer003\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.GenerateResource.Cache
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\bin\Debug\Platformer002.exe.config
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\bin\Debug\Platformer002.exe
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\bin\Debug\Platformer002.pdb
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\obj\Debug\Platformer002.csprojAssemblyReference.cache
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\obj\Debug\Platformer002.Form1.resources
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\obj\Debug\Platformer002.Properties.Resources.resources
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.GenerateResource.cache
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.CoreCompileInputs.cache
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\obj\Debug\Platformer002.exe
+C:\Users\Kudo\Documents\GitRepos\Platformer002-20190523T005510Z-001\Platformer002\Platformer002\obj\Debug\Platformer002.pdb
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\bin\Debug\Platformer002.exe.config
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\bin\Debug\Platformer002.exe
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\bin\Debug\Platformer002.pdb
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\obj\Debug\Platformer002.csprojAssemblyReference.cache
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\obj\Debug\Platformer002.Form1.resources
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\obj\Debug\Platformer002.Properties.Resources.resources
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.GenerateResource.cache
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.CoreCompileInputs.cache
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\obj\Debug\Platformer002.exe
+M:\Code\Daria's stuff\Andrew_day1\Platformer002\Platformer002\obj\Debug\Platformer002.pdb
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\bin\Debug\Platformer002.exe.config
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\bin\Debug\Platformer002.exe
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\bin\Debug\Platformer002.pdb
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.csprojAssemblyReference.cache
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.Form1.resources
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.Properties.Resources.resources
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.GenerateResource.cache
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.CoreCompileInputs.cache
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.exe
+M:\Code\Daria's stuff\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.pdb
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\bin\Debug\Platformer002.exe.config
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\bin\Debug\Platformer002.exe
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\bin\Debug\Platformer002.pdb
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.csprojResolveAssemblyReference.cache
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.Form1.resources
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.Properties.Resources.resources
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.GenerateResource.cache
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.csproj.CoreCompileInputs.cache
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.exe
+D:\Dasha\UL\Engineering\Platformer007\Andrew_day1 - Petr\Platformer002\Platformer002\obj\Debug\Platformer002.pdb
